@@ -1,7 +1,7 @@
 {
   "version": 1,
   "users": [
-    { "email": "jameswilliammedinamonsalve@gmail.com", "maxDevices": 2, "notes": "Admin" },
+    { "email": "jameswilliammedinamonsalve@gmail.com", "maxDevices": 5, "notes": "Admin" },
     { "email": "cliente1@gmail.com", "maxDevices": 2 },
     { "email": "cliente2@gmail.com", "maxDevices": 2 }
   ]
